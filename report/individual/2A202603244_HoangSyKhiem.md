@@ -17,15 +17,15 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | easy_semantic | `easy_semantic.zip` | 3 / 3 | 20 |
 | medium_instance | `medium_instance.zip` | 3 / 3 | 32 |
 | hard_panoptic | `hard_panoptic.zip` | 2 / 2 | 30 |
-| cp1_holes | chưa có | 0 / 1 | 3 |
-| cp2_slice | chưa có | 0 / 1 | 3 |
+| cp1_holes | `cp1_holes.zip` | 1 / 1 | 3 |
+| cp2_slice | `cp2_slice.zip` | 1 / 1 | 3 |
 | cp5_occlusion | chưa có | 0 / 1 | 3 |
 | cp3_thin | chưa có | 0 / 1 | 3 |
 | cp4_curb | chưa có | 0 / 1 | 3 |
 | cp6_coverage | chưa có | 0 / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
 
-Hiện nộp trước 3 task chính (`easy_semantic`, `medium_instance`, `hard_panoptic`); 6 trạm checkpoint (`cp1_holes`, `cp2_slice`, `cp3_thin`, `cp4_curb`, `cp5_occlusion`, `cp6_coverage`) chưa xuất bài nộp.
+Hiện đã nộp 3 task chính (`easy_semantic`, `medium_instance`, `hard_panoptic`) cùng 2 trạm checkpoint (`cp1_holes`, `cp2_slice`); 4 trạm checkpoint còn lại (`cp3_thin`, `cp4_curb`, `cp5_occlusion`, `cp6_coverage`) chưa xuất bài nộp.
 
 ## 2. Một quyết định trước khi dùng gợi ý
 
